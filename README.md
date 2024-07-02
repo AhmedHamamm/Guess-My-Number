@@ -6,6 +6,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Play](#how-to-play)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -36,7 +37,19 @@
    - "Too low!" if your guess is lower than the number.
    - "Correct!" if your guess matches the number.
 5. The game tracks your score, decreasing with each incorrect guess.
-6. Click "Again!" to restart the game with a new random number.
+6. If your score is higher than the current high score, it will be saved as the new high score.
+7. Click "Again!" to restart the game with a new random number.
+
+## Screenshots
+
+![Game Screenshot Guess](/guess%20my%20number.png.png)
+![Game Screenshot Too High](/too%20high.png)
+![Game Screenshot Correct Number](/correct%20number.png.png)
+![Game Screenshot Too Low](/too%20low.png)
+
+## Play Online
+
+You can play "Guess My Number" online [here](https://ahmedhamamm.github.io/Guss-My-Number/).
 
 ## Contributing
 
