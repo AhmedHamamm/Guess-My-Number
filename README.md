@@ -42,9 +42,9 @@
 
 ## Screenshots
 
-![Game Screenshot Guess](/guess%20my%20number.png.png)
+![Game Screenshot Guess](/guess%20my%20number.png)
 ![Game Screenshot Too High](/too%20high.png)
-![Game Screenshot Correct Number](/correct%20number.png.png)
+![Game Screenshot Correct Number](/correct%20number.png)
 ![Game Screenshot Too Low](/too%20low.png)
 
 ## Play Online
