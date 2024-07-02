@@ -7,6 +7,7 @@
 - [Technologies Used](#technologies-used)
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
+- [Play Online](#Play-Online)
 - [Contributing](#contributing)
 
 ## Introduction
