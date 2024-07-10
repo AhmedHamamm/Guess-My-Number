@@ -50,7 +50,7 @@
 
 ## Play Online
 
-You can play "Guess My Number" online [here](https://ahmedhamamm.github.io/Guss-My-Number/).
+You can play "Guess My Number" online [here](https://ahmedhamamm.github.io/Guess-My-Number/).
 
 ## Contributing
 
